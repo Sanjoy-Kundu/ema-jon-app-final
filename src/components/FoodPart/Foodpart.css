@@ -1,0 +1,11 @@
+.food-container{
+display: grid;
+grid-template-columns: 4fr 1fr;
+
+}
+.left-item{
+
+}
+.right-item-cart{
+
+}
